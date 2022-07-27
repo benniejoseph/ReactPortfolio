@@ -10,6 +10,8 @@
   --gray-color: #6b7688;
   --brown-color: #46364a;
   --white-color: #ffffff;
+  --gradiendb2g : background: linear-gradient(90deg, #000000, #120f11, #1d191c, #282227, #342b32, #40353d, #4c3f49, #594955);
+  --gradientg2b : background: linear-gradient(90deg, #594955, #4c3f49, #40353d, #342b32, #282227, #1d191c, #120f11, #000000);
 }
 
 * {
