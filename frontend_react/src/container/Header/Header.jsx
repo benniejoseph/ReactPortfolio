@@ -32,8 +32,8 @@ const Header = () => (
         </div>
 
         <div className="tag-cmp app__flex">
-          <p className="p-text">Salesforce Lightning Developer</p>
-          <p className="p-text">Application Architect</p>
+          <p className="p-text">Salesforce Application Architect</p>
+          <p className="p-text">Web/Mobile App Developer</p>
         </div>
       </div>
     </motion.div>
