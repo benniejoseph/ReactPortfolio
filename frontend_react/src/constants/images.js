@@ -21,7 +21,7 @@ import about03 from "../assets/about03.png";
 import about04 from "../assets/about04.png";
 
 import heroImage from "../assets/heroImage.png";
-import heroImage2 from "../assets/Bennie.png";
+import heroImage2 from "../assets/Ben.png";
 import circle from "../assets/circle.svg";
 import logo from "../assets/logo.png";
 
